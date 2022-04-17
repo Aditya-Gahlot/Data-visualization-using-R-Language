@@ -37,3 +37,14 @@ We start with basic R functions for visualization. firstly we capture some gener
 
 See R file entitled Iris Dataset Exploratory Analysis for the code.
 
+# Teams Members Name
+------------------------------------------------------------------------------
+
+  @Vikas[http//github.com/Vikas2201]
+  @Aditya
+  @Abhijeet Singh
+
+# Help Me Improve
+---------------------------------------------------------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap
