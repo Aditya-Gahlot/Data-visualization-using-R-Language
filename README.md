@@ -40,9 +40,9 @@ See R file entitled Iris Dataset Exploratory Analysis for the code.
 # Teams Members Name
 ------------------------------------------------------------------------------
 
-  @Vikas[https://github.com/Vikas2201]
-  @Aditya[]
-  @Abhijeet Singh[]
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Aditya](https://github.com/Aditya-Gahlot) 
+ * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
 
 # Help Me Improve
 ---------------------------------------------------------------------------------------
